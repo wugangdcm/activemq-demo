@@ -1,0 +1,13 @@
+server:
+  port: 6688
+
+spring:
+  activemq:
+    broker-url: tcp://192.168.1.101:61616
+    user: admin
+    password: admin
+  jms:
+    pub-sub-domain: false #false 队列 true topic
+
+myqueue: sprintboot-queue
+mytopic: sprintboot-topic
