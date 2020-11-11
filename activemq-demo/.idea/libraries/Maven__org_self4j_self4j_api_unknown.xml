@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.self4j:self4j-api:unknown">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/self4j/self4j-api/unknown/self4j-api-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/self4j/self4j-api/unknown/self4j-api-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/self4j/self4j-api/unknown/self4j-api-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

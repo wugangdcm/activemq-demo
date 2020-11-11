@@ -6,9 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo" />
-        <module name="jvm-demo" />
+        <module name="activemq-consumer" />
+        <module name="activemq-producer" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activemq-consumer" target="1.5" />
+      <module name="activemq-demo" target="1.5" />
+      <module name="activemq-producer" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
